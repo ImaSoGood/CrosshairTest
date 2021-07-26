@@ -1,0 +1,2 @@
+Command = "go" - just type it in
+This app made only for x64. It may be running on x86 processor vers, but i didnt test it :)
